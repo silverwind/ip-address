@@ -1,5 +1,5 @@
 {
-  "name": "ip-address",
+  "name": "@silverwind/ip-address",
   "description": "A library for parsing IPv4 and IPv6 IP addresses in node and the browser.",
   "keywords": [
     "ipv6",
@@ -10,6 +10,7 @@
   "version": "8.1.0",
   "author": "Beau Gunderson <beau@beaugunderson.com> (https://beaugunderson.com/)",
   "license": "MIT",
+  "type": "module",
   "main": "dist/cjs/ip-address.js",
   "module": "dist/esm/ip-address.js",
   "types": "dist/cjs/ip-address.d.ts",
